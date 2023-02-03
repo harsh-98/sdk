@@ -2,3 +2,6 @@ node_modules
 lib
 src/types
 *.d.ts
+sdkgo_tokenmap.ts
+synctron.ts
+scripts/parser.ts
