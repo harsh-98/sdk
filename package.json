@@ -8,6 +8,7 @@
   "types": "./dist/types/sdk/index.d.ts",
   "typings": "./dist/types/sdk/index.d.ts",
   "sideEffects": false,
+  "type": "module",
   "exports": {
     "./package.json": "./package.json",
     ".": {
